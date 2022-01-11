@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color:rgb(155, 187, 218);
+    text-align: center;
+
+
+  }
+   
+   
+  h1 {
+    color:  rgb(52, 94, 133);
+    font-size: 25px;
+    background-color: rgb(189, 206, 222);
+  }
+
+      
+  p, 
+  li {
+    font-size: 18px;
+    color:rgb(28, 83, 135)
+    
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
